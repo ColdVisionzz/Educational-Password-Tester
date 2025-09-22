@@ -1,0 +1,24 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+
+# Byte-compiled / cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# IDE settings
+.idea/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Large wordlists (keep only small demo ones)
+tester/wordlists/rockyou.txt
+tester/wordlists/probable-v2.txt
+tester/wordlists/realhuman_phill.txt
